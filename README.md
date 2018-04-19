@@ -1,5 +1,5 @@
 # Braincode
-Cpopyright (c) 2018 Mathias Bungeroth, Felix Fischer, Sebastian Kappes, Floris Westermann
+Copyright (c) 2018 Mathias Bungeroth, Felix Fischer, Sebastian Kappes, Floris Westermann
 
 Website: http://ec2-54-157-39-72.compute-1.amazonaws.com/
 
